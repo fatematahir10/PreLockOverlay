@@ -1,0 +1,25 @@
+﻿# Ignore build outputs
+bin/
+obj/
+*.user
+*.suo
+*.log
+
+# Visual Studio
+.vscode/
+*.ncrunch*
+*.vs/
+*.psess
+*.vspx
+*.pidb
+
+# Build artifacts
+*.exe
+*.dll
+*.pdb
+*.cache
+*.zip
+
+# Packages
+packages/
+*.nupkg
